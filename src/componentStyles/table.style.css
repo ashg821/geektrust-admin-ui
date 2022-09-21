@@ -1,0 +1,14 @@
+.userTable{
+    width: 100%;
+}
+
+td, th{
+    padding: 10px 0 10px 0;
+}
+thead, tr{
+    border-bottom: 1px solid gray;
+}
+
+.selected{
+    background-color: lightgray;
+}
